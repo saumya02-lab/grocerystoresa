@@ -1,5 +1,4 @@
 # 🛒 FreshMart Grocery Store
-
 A modern and responsive **Online Grocery Store** built using **HTML, CSS, and JavaScript**.
 
 ## 🚀 Features
